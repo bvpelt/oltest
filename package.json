@@ -1,0 +1,26 @@
+{
+  "name": "oltest03",
+  "version": "1.0.0",
+  "description": "Openlayers and Application integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvpelt/oltest.git"
+  },
+  "keywords": [
+    "Openlayers",
+    "test"
+  ],
+  "author": "Bart van Pelt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bvpelt/oltest/issues"
+  },
+  "homepage": "https://github.com/bvpelt/oltest#readme",
+  "dependencies": {
+    "openlayers": "^3.18.2"
+  }
+}
