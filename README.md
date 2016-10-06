@@ -1,7 +1,13 @@
 # Introduction oltest
 Openlayers 3 with application integration
+
 links
-[closure-util](https://github.com/openlayers/closure-util)
+- [closure-util](https://github.com/openlayers/closure-util)
+- [closure tools](https://developers.google.com/closure/)
+- [closure library](https://developers.google.com/closure/library/)
+- [create openlayers project](http://openlayers.org/en/latest/doc/tutorials/browserify.html)
+- [compiling app and openlayers](http://openlayers.org/en/latest/doc/tutorials/closure.html)
+
 
 ## Setup steps
 After downloading the project first make sure building changes works by executing the following command from the command prompt in the directory of the oltest project.
