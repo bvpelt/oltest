@@ -19,17 +19,18 @@ $ make npminit
 ## Building the application
 To build the application execute
 ```bash
-$ make
+$ make all
 ```
 To test if the build is successfull execute
 ```bash
 make debug
 ```
 Goto the following link [http://localhost:3000](http://localhost:3000)
+
 # FAQ
 If an error message like below follows (bug in npm init) there are missing modules
 ```bash
-[bvpelt@pluto oltest]$ make
+[bvpelt@pluto oltest]$ make all
 ./node_modules/openlayers/node_modules/.bin/closure-util build config.json ./dist/app.js
 make: ./node_modules/openlayers/node_modules/.bin/closure-util: Command not found
 Makefile:23: recipe for target 'dist/app.js' failed

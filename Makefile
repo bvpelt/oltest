@@ -51,7 +51,7 @@ check-deps: EXECUTABLES = git node python java
 check-deps:
 	@for exe in $(EXECUTABLES) ;\
 	do \
-		which $${exe} > /dev/null && \
+		which $${exe} &> /dev/null && \
 		echo "Program $${exe} OK" || \
 		echo "Program $${exe} MISSING!" ;\
 		done ;\
