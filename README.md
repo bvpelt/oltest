@@ -1,5 +1,7 @@
 # Introduction oltest
 Openlayers 3 with application integration
+links
+[closure-util](https://github.com/openlayers/closure-util)
 
 ## Setup steps
 After downloading the project first make sure building changes works by executing the following command from the command prompt in the directory of the oltest project.
